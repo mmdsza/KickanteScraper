@@ -4,7 +4,7 @@ This is a simple scraper for the crowdfunding website Kickante.
 
 ## Prerequisites
 
-For this script to run properly, you need the packages 'BeautifulSoup4' and 'urllib3' installed on your computer or on a virtual environment (I recommend the latter).
+For this script to run properly, apart from Python3, you need the packages 'BeautifulSoup4' and 'urllib3' installed on your computer or on a virtual environment (I recommend the latter).
 
 If you don't know how to install them, here's how:
 ```
